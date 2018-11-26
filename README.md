@@ -9,7 +9,7 @@ This project assumes you have Java and docker configured on your OS.
 
 >The project was not tested for _Docker Toolbox_, thus configurations may change in **docker-compose-single-broker.yml** file.
 
-> If you don't have Docker installed, refer the link below to run Zookeeper and Kafka broker on Windows.
+If you don't have Docker installed, refer the **link** below to run Zookeeper and Kafka broker on Windows.
 
 Unix users should do the same, but to execute files with `*.sh` extension.
 
